@@ -7,7 +7,6 @@ import { port } from "config/config";
 
 const start = async () => {
   try {
-    log.warn("PORT: ", port);
     const app: fastify.FastifyInstance = fastify();
     //routes(app);
     app.listen(port, '0.0.0.0');
