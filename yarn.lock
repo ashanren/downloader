@@ -36,6 +36,11 @@
     "@types/node" "*"
     "@types/sonic-boom" "*"
 
+"@types/selenium-webdriver@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-4.0.0.tgz#21aa550f08d2cca49f8537f6697288a0d4300f28"
+  integrity sha512-x/OwFhZaZBkucIl/SuooCmkdu1V6LBfHcBeBV5rj05Co8EenuL1KJiIRUU/Da2hscoqbXyF3QuWDOZZ4sLVA5Q==
+
 "@types/sonic-boom@*":
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/@types/sonic-boom/-/sonic-boom-0.6.2.tgz#5f6c7bf6b4a0994f9339d778da6a7adcc3d37080"
